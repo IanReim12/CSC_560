@@ -6,7 +6,7 @@ var id = 2;
 
 var user = {
   user4: {
-    name: "mohit",
+    name: "mohi",
     password: "password",
     profession: "teacher",
     id: 4,
