@@ -1,4 +1,5 @@
 //this file takes the CRUD logic created in the bluesController and applies it to the router, enabling the ability to handle different requests
+//This file creates declares our routes and assigns a callback function imported from bluesController
 
 const express = require("express");
 //creates a new Router object called router, will handle http requests
